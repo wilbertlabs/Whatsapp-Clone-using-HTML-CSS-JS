@@ -1,55 +1,56 @@
 var chat = {
-    "Kang Galon Komplek": [
+    "Vidi (Kang Galon Komplek)": [
         { t: "Om mau pesen galon?", s: 0, j: "14:28" },
         { t: "Iya dong kirim 2 ya", s: 1, j: "14:29" },
         { t: "galonnyo om 🤏🤏", s: 0, j: "14:30" }
     ],
-    "Kang Wifi Indigo": [
+    "Karsten (Kang Wifi Indigo)": [
         { t: "Bang wifi mati dari tadi", s: 1, j: "12:10" },
         { t: "Wifi Gangguan om lagi diperbaiki", s: 0, j: "12:13" }
     ],
-    "Kang Bangunan": [
+    "Alvaro (Kang Bangunan)": [
         { t: "Kang tolong pasang keramik ya", s: 1, j: "10:18" },
         { t: "Siap om laksanakan", s: 0, j: "10:20" }
     ],
-    "Kang Utang": [
+    "Prince (Kang Utang)": [
         { t: "Halo bang apa kabar?", s: 0, j: "Kemarin" },
         { t: "Baik ada apa?", s: 1, j: "Kemarin" },
         { t: "pinjem 100 bang 😀", s: 0, j: "Kemarin" }
     ],
-    "Masa Lalu": [
-        { t: "Kita ketemu ga?", s: 0, j: "30 Apr" },
-        { t: "gk app nanti aja ktemu", s: 1, j: "30 Apr" }
+    "Irvin (Pebasket)": [
+        { t: "latihan dk vin?", s: 0, j: "30 Apr" },
+        { t: "latihan la", s: 1, j: "30 Apr" }
     ],
-    "Mantan Temen": [
-        { t: "Masih inget aku ga?", s: 0, j: "29 Apr" },
-        { t: "Inget dong ada apa?", s: 1, j: "29 Apr" }
+    "Zahran (Teman Mabar)": [
+        { t: "maen dk ran?", s: 0, j: "29 Apr" },
+        { t: "gas wi", s: 1, j: "29 Apr" }
     ],
-    "Pak RT": [
+    "Farzan (Pak RT)": [
         { t: "Bro agek tolong bantu umumke acara 17an", s: 0, j: "20 Apr" },
         { t: "siap pak kabarke b kapan", s: 1, j: "20 Apr" }
     ],
-    "Mantan Pak RT 10": [
-        { t: "pak dikampung ad maling", s: 1, j: "18 Apr" },
+    "Dravin (Teman Irvin Basket)": [
+        { t: "latihan dk dravin?", s: 1, j: "18 Apr" },
         { t: "y", s: 0, j: "18 Apr" }
     ],
-    "Ibu Rt 23": [
-        { t: "buk, tau identitas maling kmrn ga?", s: 1, j: "14 Apr" },
-        { t: "kurang tau juga saya yaa", s: 0, j: "14 Apr" }
+    "Diego (Pemain Futsal)": [
+        { t: "latihan dk diego?", s: 1, j: "14 Apr" },
+        { t: "kurang tau jugo aku", s: 0, j: "14 Apr" }
     ],
-    "Kang Pasir": [
+    "Kenneth Anthony (Kang Pasir)": [
         { t: "pasir satu mobil om", s: 1, j: "12 Feb" },
         { t: "siap om agek ku kirim", s: 0, j: "12 Feb" }
     ],
-    "Marbot Masjid": [
+    "Kenny (Marbot Masjid)": [
         { t: "bro", s: 1, j: "1 Jan" },
         { t: "minjem 100 bro, lagi BU", s: 1, j: "1 Jan" },
         { t: "jgn gitu lah broo", s: 0, j: "1 Jan" }
     ],
-    "Kang Onar": [
-        { t: "ppp", s: 0, j: "12 Des" },
-        { t: "ngapo mang?", s: 1, j: "12 Des" },
-        { t: "bayar tagihan jago malem oi", s: 0, j: "12 Des" }
+    "Sir Ilham (Guru Coding)": [
+        { t: "Selamat pagi sir", s: 1, j: "12 Des" },
+        { t: "Sir izin mengumpulkan tugas coding kemarin", s: 1, j: "12 Des" },
+        { t: "ini link githubnya sir https://wilbertlabs.github.io/Whatsapp-Clone-using-HTML-CSS-JS/", s: 1, j: "12 Des" },
+        { t: "terima kasih sir", s: 1, j: "12 Des" }
     ]
 };
 
